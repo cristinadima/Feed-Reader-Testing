@@ -10,16 +10,16 @@ Testing the Feed Reader app using Javascript testing framework Jasmine.
 ## Tests
 
 RSS Feeds:
-*Feeds are Defined
-*Feed URL is not empty
-*Feed names are not empty
+* Feeds are Defined
+* Feed URL is not empty
+* Feed names are not empty
 
 The Menu:
-*The menu is hidden by default
-*When clicked the menu changes visibility
+* The menu is hidden by default
+* When clicked the menu changes visibility
 
 Initial Entries:
-*Feed container has at least 1 entry
+* Feed container has at least 1 entry
 
 New Feed Selection:
-*Feed content changes when new feed is selected
+* Feed content changes when new feed is selected
